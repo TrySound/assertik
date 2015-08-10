@@ -1,3 +1,5 @@
+[![Travis CI](https://travis-ci.org/TrySound/assertik.svg)](https://travis-ci.org/TrySound/assertik)
+
 # Assertik
 
 Very simple assertion library for node and browser
