@@ -1,0 +1,25 @@
+{
+  "name": "assertik",
+  "version": "1.0.0",
+  "description": "Very simple assertion library for node and browser",
+  "main": "assertik.js",
+  "files": [
+    "assertik.js"
+  ],
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "Bogdan Chadkin <trysound@yandex.ru>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrySound/assertik.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TrySound/assertik/issues"
+  },
+  "homepage": "https://github.com/TrySound/assertik",
+  "devDependencies": {
+    "tape": "^4.0.3"
+  }
+}
